@@ -1,6 +1,6 @@
 <div align="center">
     <h2>The Codebase For Bob The Bot</h2>
-    <img src="https://cdn.discordapp.com/app-icons/705680059809398804/299eecd0b113960b0b8109908b9347ca.png?size=128">
+    <img src="BobLogo.png">
 
 <p>A bot for 🎲 RNG, new 📜 fonts, 🔒 encryption, and ✨ more! Currently serving <b>3,000+</b> users!</p>
 
