@@ -1,6 +1,6 @@
 <div align="center">
     <h2>The Codebase For Bob The Bot</h2>
-    <img src="BobLogo.png">
+    <img src="https://bobthebot.net/assets/images/bob.png">
 
 <p>A bot for 🎲 RNG, 🖊️ quoting, 📜 fonts, 🔒 encryption, and ✨ more! Currently serving <b>20,000+</b> users in <b>300+</b> servers!</p>
 
