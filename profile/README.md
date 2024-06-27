@@ -2,7 +2,7 @@
     <h2>The Codebase For Bob The Bot</h2>
     <img src="https://bobthebot.net/assets/images/bob.png">
 
-<p>A bot for 🎲 RNG, 🖊️ quoting, 📜 fonts, 🔒 encryption, and ✨ more! Currently serving <b>100,000+</b> users in <b>800+</b> servers!</p>
+<p>Bob, the bot for 🎲 RNG, 🖊️ quoting, 📜 fonts, 🔒 encryption, 🎮 games, and ✨ more! Currently serving <b>100,000+</b> users in <b>1,000+</b> servers!</p>
 
 <a href="https://discord.com/oauth2/authorize?client_id=705680059809398804&permissions=1110719392886&scope=bot%20applications.commands">Invite</a>
 <span>|
